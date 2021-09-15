@@ -1,0 +1,39 @@
+body
+{
+    font-family: 'Roboto Condensed', sans-serif;
+    background: #12fff7;
+
+}
+
+.header_div
+{
+    background: lime;
+    color: black;
+}
+
+.header_div p{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: brown;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold ;
+}
+.main_div button{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: lightsalmon;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold ;
+    width:130px;
+}
+.copy_right_footer {
+    position : fixed;
+    color:black;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: deeppink;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px crimson;
+}
